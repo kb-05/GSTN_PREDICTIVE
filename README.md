@@ -1,2 +1,1 @@
-# GSTN_PREDICTIVE
-This Project is about creating a predective analytic model
+This project aims to develop a machine learning model that predicts target values from input features using training data. The model is trained by optimizing its parameters through minimizing a chosen loss function, and then tested on unseen data to generate predictions. Feature engineering and transformations are applied to improve the model's performance, ensuring it generalizes well to new data.
